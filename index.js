@@ -24,7 +24,7 @@ app.use(
 
 app.get('/api/cheeses', (req, res) => {
   const cheeseArr = [
-    "Bath Blue",
+    "Bath Bleu",
     "Barkham Blue",
     "Buxton Blue",
     "Cheshire Blue",
